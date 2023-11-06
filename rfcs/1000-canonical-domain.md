@@ -18,15 +18,20 @@ Use `nix.dev` as the canonical domain for all official Nix projects.
 
 - `nixos.org` is confusing because it's not just about NixOS.
 - Having both `nixos.org` and `nix.dev` is not great because it looks like both can't be official (but they are)
+- `nixos.com` is a porn website, it would be better to distance ourselves a bit from it :)
 
 # Detailed design
 [design]: #detailed-design
 
 1. Move the current contents of `nix.dev` to the subdomain `docs.nix.dev`.
 2. Move the current contents of `nixos.org` to `nix.dev`
+3. Keep `nixos.org` registered
 
 # Examples and Interactions
 [examples-and-interactions]: #examples-and-interactions
+
+## Redirects
+All subdomains and links should continue working using redirects.
 
 ## Ownership
 Both nix.dev and nixos.org are already controlled by the NixOS foundation, so there's no change in ownership.
