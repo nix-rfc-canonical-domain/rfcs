@@ -30,7 +30,12 @@ Use `nix.dev` as the canonical domain for all official Nix projects.
 [examples-and-interactions]: #examples-and-interactions
 
 ## Redirects
-All subdomains and links should continue working using redirects.
+Generally all subdomains and links should continue working using appropriate redirects.
+
+Some problems might occur for destinations that are valid for both `nixos.org` and `nix.dev` (e.g. both having `nixos.org/install`/`nix.dev/install`)
+
+Some problems may also occur for `cache.nixos.org` and `tarballs.nixos.org`.
+In such a case, these domains could be temporarily mirrored until the problem can be resolved.
 
 ## Ownership
 Both nix.dev and nixos.org are already controlled by the NixOS foundation, so there's no change in ownership.
