@@ -28,6 +28,14 @@ Use `nix.dev` as the canonical domain for all official Nix projects.
 # Examples and Interactions
 [examples-and-interactions]: #examples-and-interactions
 
+## Ownership
+Both nix.dev and nixos.org are already controlled by the NixOS foundation, so there's no change in ownership.
+
+## Sources
+The sources for all pages will stay the same for now:
+- The new `docs.nix.dev` will use the same source as the current `nix.dev`: https://github.com/NixOS/nix.dev
+- The new `nix.dev` will use the same source as the current `nixos.org`: https://github.com/NixOS/nixos-homepage
+
 # Drawbacks
 [drawbacks]: #drawbacks
 
