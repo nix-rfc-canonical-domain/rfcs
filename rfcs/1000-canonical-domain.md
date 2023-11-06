@@ -24,8 +24,7 @@ Use `nix.dev` as the canonical domain for all official Nix projects.
 [design]: #detailed-design
 
 1. Move the current contents of `nix.dev` to the subdomain `docs.nix.dev`.
-2. Move the current contents of `nixos.org` to `nix.dev`
-3. Keep `nixos.org` registered
+2. Move the current contents of `nixos.org` to `nix.dev`, keeping `nixos.org` registered
 
 # Examples and Interactions
 [examples-and-interactions]: #examples-and-interactions
