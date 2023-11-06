@@ -18,7 +18,7 @@ Use `nix.dev` as the canonical domain for all official Nix projects.
 
 - `nixos.org` is confusing because it's not just about NixOS.
 - Having both `nixos.org` and `nix.dev` is not great because it looks like both can't be official (but they are)
-- `nixos.com` is a porn website, it would be better to distance ourselves a bit from it :)
+- `nixos.com` is an adult escort website, it would be better to distance ourselves a bit from it :)
 
 # Detailed design
 [design]: #detailed-design
