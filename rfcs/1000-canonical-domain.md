@@ -83,3 +83,5 @@ The `.dev` TLD might invoke the feeling that Nix is only meant for developers, w
 
 # Future work
 [future]: #future-work
+
+- Figure out whether the sources (and/or the styles) of the two websites should be unified.
