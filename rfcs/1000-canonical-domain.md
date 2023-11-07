@@ -58,6 +58,7 @@ The `.dev` TLD might invoke the feeling that Nix is only meant for developers, w
   - (-) As a three-letter domain name it would likely be very expensive, probably in the order of $10'000 to $100'000 per year
 - Use `nix-platform.org` or `nix-platform.com` (@infinisil squatted these for now in case we want to use one)
   - (+) Would also allow establishing the term _Nix Platform_ as the combination of all official Nix projects, mainly including Nix, NixOS and Nixpkgs.
+  - (-) _Nix Platform_ is [not a widely agreed-upon term](https://github.com/NixOS/nix.dev/pull/575#pullrequestreview-1455203487). It would require an independent discussion to establish it, and thus unduly grow the scope of this proposal.
   - (-) Those domain names are rather long.
 - Moving the current contents of `nix.dev` under `docs.nixos.org`
   - (+) Allows keeping `nixos.org` as the canonical domain
