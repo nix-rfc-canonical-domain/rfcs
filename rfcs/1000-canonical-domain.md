@@ -11,7 +11,7 @@ related-issues: (will contain links to implementation PRs)
 # Summary
 [summary]: #summary
 
-Use `nix.dev` as the canonical domain for all official Nix projects.
+Use `nix.dev` as the entry point to the Nix ecosystem.
 
 # Motivation
 [motivation]: #motivation
